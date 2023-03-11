@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: antiquewhite;
+    border: solid black 1px;
+    margin: 30px;
+    padding: 35px;
+}
+
+h1 {
+    /* text-align: center; */
+}
+
+h2 {
+    text-align: center;
+}
+
+.summary {
+    margin: 20px;
+}
+
+.skills {
+    margin: 20px;
+}
+
+/* li {
+    list-style: circle;
+} */
+
+.job {
+    margin: 20px 0;
+}
