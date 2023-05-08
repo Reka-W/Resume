@@ -34,3 +34,8 @@ h2 {
 .job {
     margin: 20px 0;
 }
+
+.education {
+    font-style: italic;
+    color: brown;
+}
