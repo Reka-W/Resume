@@ -18,12 +18,17 @@ h2 {
     text-align: center;
 }
 
-.summary {
+.professional-summary {
     margin: 20px;
 }
 
-.skills {
+.candidate-basic-skills {
     margin: 20px;
+}
+
+.skills-bullets {
+    /* margin: none; */
+    text-align: left;
 }
 
 .job {
